@@ -1,4 +1,4 @@
-FROM almalinux:9
+FROM almalinux
 ENV SUBJECT="DOCKER" \
     LEARNER="SURESH" \
     TOOL="NGINX"
